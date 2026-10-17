@@ -1,0 +1,1 @@
+import{t as e}from"./jsx-runtime-BtH0gOTJ.js";var t=e();function n({value:e,options:n,onChange:r,label:i,size:a,className:o}){return(0,t.jsx)(`div`,{className:`seg${a?` ${a}`:``}${o?` ${o}`:``}`,role:`group`,"aria-label":i,children:n.map(([n,i])=>(0,t.jsx)(`button`,{type:`button`,"aria-pressed":e===n,onClick:()=>r(n),children:i},String(n)))})}export{n as t};

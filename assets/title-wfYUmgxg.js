@@ -1,0 +1,1 @@
+import{i as e,t}from"./react-DB-4Zxce.js";var n=e(t(),1),r=e=>e?`${e} · Gymbro`:`Gymbro`;function i(e){(0,n.useEffect)(()=>(document.title=r(e),()=>{document.title=r()}),[e])}export{i as t};

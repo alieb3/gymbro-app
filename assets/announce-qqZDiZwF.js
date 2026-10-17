@@ -1,0 +1,1 @@
+var e={polite:`gb-say`,assertive:`gb-alert`},t=0;function n(n,r=`polite`){if(typeof document>`u`||!n)return;let i=document.getElementById(e[r]);i&&(i.textContent=``,window.clearTimeout(t),window.setTimeout(()=>{i.textContent=n},60),t=window.setTimeout(()=>{i.textContent=``},7e3))}export{n as t};

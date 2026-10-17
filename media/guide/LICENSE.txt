@@ -1,0 +1,7 @@
+Exercise frames in this folder are adapted from Workout Guide
+(https://github.com/bryllim/workout-guide) by Bryl Lim, whose first-pose frames
+are partly derived from Everkinetic (https://github.com/everkinetic/data).
+Licence: CC BY-SA 4.0, https://creativecommons.org/licenses/by-sa/4.0/
+Changes: Frames selected and reordered; path coordinates rounded to whole pixels; recoloured at display time.
+These adapted files are shared under the same licence (CC BY-SA 4.0).
+Gymbro's code is not covered by this licence.

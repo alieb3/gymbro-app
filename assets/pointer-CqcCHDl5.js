@@ -1,0 +1,1 @@
+import{i as e,t}from"./react-DB-4Zxce.js";var n=e(t(),1);function r(e,t){return(0,n.useSyncExternalStore)(t=>{let n=matchMedia(e);return n.addEventListener(`change`,t),()=>n.removeEventListener(`change`,t)},()=>matchMedia(e).matches,()=>t)}var i=()=>r(`(pointer: coarse)`,!0);export{r as n,i as t};
