@@ -1,0 +1,1 @@
+var e=`/body`,t=`/trainers`,n=t,r=(e,t)=>e===t||e.startsWith(`${t}/`);export{r as i,t as n,n as r,e as t};
